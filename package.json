@@ -27,5 +27,8 @@
             "autoprefixer": {},
             "tailwindcss": {}
         }
+    },
+    "dependencies": {
+        "preline": "^2.4.0"
     }
 }
