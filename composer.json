@@ -11,6 +11,7 @@
         "php": "^8.2",
         "http-interop/http-factory-guzzle": "^1.2",
         "hybridly/laravel": "^0.7.10",
+        "laravel/fortify": "^1.22",
         "laravel/framework": "^11.9",
         "laravel/horizon": "^5.25",
         "laravel/octane": "^2.5",
